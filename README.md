@@ -1,7 +1,7 @@
 # resin-nametag
 An epaper name tag for conferences that can be updated with resin.io
 
-This project uses the [https://www.pi-supply.com/product/papirus-epaper-eink-screen-hat-for-raspberry-pi/]PaPiRus ePaper HAT for the Raspberry Pi to serve as a name badge that can be updated and managed through resin.io.
+This project uses the [PaPiRus ePaper HAT](https://www.pi-supply.com/product/papirus-epaper-eink-screen-hat-for-raspberry-pi/) for the Raspberry Pi to serve as a name badge that can be updated and managed through resin.io.
 
 ![picture of a working resin-nametag](doc/preview.jpg)
 
